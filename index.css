@@ -1,0 +1,30 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    background-color: hsl(12, 59%, 85%);
+    width: 100%; height: 100%;
+    text-align: justify;
+}
+
+.all{
+    margin: 50px auto; padding: 20px;
+    max-width: 600px;
+    background-color: rgb(247, 243, 200);
+    border-radius: 20px;
+}
+img{
+    border-radius: 15px;
+    width: 100%;
+}
+.time{
+    color: brown;
+    font-weight: bold;
+}
+table{
+    margin-left: 20px;
+    width: 80%;
+}
+th{
+    color: brown; padding-left: 50px;
+}
